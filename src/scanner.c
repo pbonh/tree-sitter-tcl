@@ -1,4 +1,4 @@
-#include "../../common/scanner.h"
+#include "../common/scanner.h"
 
 void *tree_sitter_tcl_external_scanner_create() {
   return NULL;
